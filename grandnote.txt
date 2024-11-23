@@ -1,0 +1,9 @@
+:: VS Code Online https://vscode.dev/
+:: MathLab Online https://matlab.mathworks.com/
+:: Python Online https://www.online-python.com/
+:: All Mathlab Version Download https://www.cns.nyu.edu/windows/
+cd C:\Projects
+gcc file.c -o file.exe
+file
+matlab -batch script_name
+python file.py
